@@ -255,7 +255,6 @@ public class Tarea3 {
              
                         for(columna = 0; columna<matriz.length; columna++){
                         System.out.print("\t"+matriz[columna][fila]+" ");
-                
                     }
                     System.out.println("");
                     }
